@@ -1,0 +1,11 @@
+{
+  "suspension_tiers": [
+	{
+		"uid": "90069749-0706-4971-914f-f8c25e0d8449",
+		"uid_t": "3b4a82fc-f599-4980-aa5c-c7c3fdf0340b",
+		"uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+		"date_debut": "01/01/2026",
+		"date_fin":"14/02/2026"
+	}
+  ]
+}
